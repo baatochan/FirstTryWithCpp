@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431770395 source:c:\users\bartosz\documents\developer\c++\gruz16\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

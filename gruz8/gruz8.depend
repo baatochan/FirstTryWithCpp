@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400587157 source:c:\users\bartosz\documents\developer\c++\gruz8\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
